@@ -22,6 +22,6 @@ The runner uses seed `20261108`, two warm-up runs, and five measured runs per ca
 - `src/main/java/` contains the algorithms, counters, input generator, and benchmark runner.
 - `src/test/java/` contains the JUnit 5 tests.
 - `results/results.csv` contains the submitted measurements.
-- `results/plots/` contains four PNG charts. `REPORT.pdf` contains the experiment design and charts.
+
 
 
