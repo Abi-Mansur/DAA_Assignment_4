@@ -24,5 +24,4 @@ The runner uses seed `20261108`, two warm-up runs, and five measured runs per ca
 - `results/results.csv` contains the submitted measurements.
 - `results/plots/` contains four PNG charts. `REPORT.pdf` contains the experiment design and charts.
 
-## AI use
-Codex bro аман болсын
+
